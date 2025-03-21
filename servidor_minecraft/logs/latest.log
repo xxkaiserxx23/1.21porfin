@@ -43,3 +43,4 @@
 [20:49:24] [User Authenticator #1/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
 [20:49:29] [Server thread/INFO]: Xxbraianproxx joined the game
 [20:49:29] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:56737] logged in with entity id 352 at ([world]1401.9968744592609, 70.0, 1296.087046109936)
+[21:22:24] [Server thread/INFO]: Villager Villager['Farmer'/463, uuid='f25c3fad-eaab-48bd-9934-4dc1d8e774de', l='ServerLevel[world]', x=1313.11, y=43.08, z=1305.06, cpos=[82, 81], tl=346348, v=true] died, message: 'Farmer was slain by Zombie'
