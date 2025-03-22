@@ -59,3 +59,10 @@
 [18:32:22] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
 [18:32:24] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
 [18:32:24] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[18:38:30] [Server thread/INFO]: EmilioZpa issued server command: /tp 1648 69 1538
+[18:38:30] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 1648.500000, 69.000000, 1538.500000]
+[18:38:41] [Server thread/INFO]: EmilioZpa issued server command: /locate biome minecraft:lush_caves
+[18:38:41] [Server thread/INFO]: Locating element minecraft:lush_caves took 89 ms
+[18:41:22] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[18:41:22] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[18:45:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Xxbraianproxx> zzzzzz
