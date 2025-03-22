@@ -40,3 +40,8 @@
 [20:20:44] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:42527] logged in with entity id 15 at ([world]1401.9776197843796, 75.0, 1302.8117280613321)
 [20:20:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
 xx<--[HERE]
+[20:48:25] [User Authenticator #1/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[20:48:27] [Server thread/INFO]: EmilioZpa joined the game
+[20:48:27] [Server thread/INFO]: EmilioZpa[/127.149.105.104:56131] logged in with entity id 3003 at ([world]1075.699999988079, -10.0, 1710.236016392035)
+[20:48:43] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[20:48:43] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
