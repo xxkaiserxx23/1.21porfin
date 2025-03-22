@@ -78,3 +78,7 @@
 [18:52:09] [Server thread/INFO]: Xxbraianproxx was burned to a crisp while fighting Zombie
 [18:54:24] [Async Chat Thread - #5/INFO]: [Not Secure] <EmilioZpa> t
 [19:03:24] [Async Chat Thread - #7/INFO]: [Not Secure] <EmilioZpa> T
+[19:12:00] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[19:12:00] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[19:12:13] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[19:12:13] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
