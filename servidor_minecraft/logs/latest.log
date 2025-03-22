@@ -43,3 +43,19 @@
 [18:17:35] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:56997] logged in with entity id 269 at ([world]1411.4923387964036, 73.0, 1339.0122583005361)
 [18:23:46] [Server thread/INFO]: EmilioZpa issued server command: /locate biome minecraft:lush_caves
 [18:23:46] [Server thread/INFO]: Locating element minecraft:lush_caves took 39 ms
+[18:28:37] [Server thread/INFO]: EmilioZpa was slain by Zombie
+[18:29:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xxbraianproxx> 1648 69 1538
+[18:30:28] [Server thread/INFO]: EmilioZpa issued server command: /tp 1648 69 1538
+[18:30:28] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to 1648.500000, 69.000000, 1538.500000]
+[18:31:38] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
+[18:31:38] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[18:31:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> zz
+[18:31:59] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[18:31:59] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> zz
+[18:32:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[18:32:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[18:32:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Xxbraianproxx> z
+[18:32:22] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[18:32:22] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[18:32:24] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[18:32:24] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
