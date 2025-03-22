@@ -86,3 +86,13 @@
 [19:17:55] [Server thread/INFO]: EmilioZpa left the game
 [19:23:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
 1688<--[HERE]
+[19:27:37] [User Authenticator #2/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[19:27:40] [Server thread/INFO]: EmilioZpa joined the game
+[19:27:40] [Server thread/INFO]: EmilioZpa[/127.149.105.104:50457] logged in with entity id 15139 at ([world]1083.4828057360294, -12.0, 1711.1562090896805)
+[19:29:21] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[19:29:21] [Server thread/INFO]: EmilioZpa left the game
+[19:30:30] [User Authenticator #3/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[19:30:32] [Server thread/INFO]: EmilioZpa joined the game
+[19:30:32] [Server thread/INFO]: EmilioZpa[/127.149.105.104:36337] logged in with entity id 15701 at ([world]1084.5651873944792, -12.0, 1712.4550220516624)
+[19:31:53] [Server thread/INFO]: EmilioZpa lost connection: Timed out
+[19:31:53] [Server thread/INFO]: EmilioZpa left the game
