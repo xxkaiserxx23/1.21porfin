@@ -35,3 +35,11 @@
 [18:05:36] [Server thread/INFO]: Running delayed init tasks
 [18:05:36] [Server thread/INFO]: Done (20.582s)! For help, type "help"
 [18:05:36] [Server thread/INFO]: Timings Reset
+[18:17:22] [User Authenticator #0/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[18:17:25] [Server thread/INFO]: EmilioZpa joined the game
+[18:17:26] [Server thread/INFO]: EmilioZpa[/127.149.105.104:52065] logged in with entity id 15 at ([world]1399.7362759866191, 70.5625, 1298.1368420890292)
+[18:17:31] [User Authenticator #0/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[18:17:35] [Server thread/INFO]: Xxbraianproxx joined the game
+[18:17:35] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:56997] logged in with entity id 269 at ([world]1411.4923387964036, 73.0, 1339.0122583005361)
+[18:23:46] [Server thread/INFO]: EmilioZpa issued server command: /locate biome minecraft:lush_caves
+[18:23:46] [Server thread/INFO]: Locating element minecraft:lush_caves took 39 ms
