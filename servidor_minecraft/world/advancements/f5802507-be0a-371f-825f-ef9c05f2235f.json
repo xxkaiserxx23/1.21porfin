@@ -2043,5 +2043,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-22 21:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-22 21:00:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

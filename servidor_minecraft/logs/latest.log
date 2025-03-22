@@ -66,3 +66,42 @@ xx<--[HERE]
 [20:59:36] [User Authenticator #3/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
 [20:59:40] [Server thread/INFO]: Xxbraianproxx joined the game
 [20:59:40] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:54375] logged in with entity id 4459 at ([world]1398.512499988079, 63.0, 1292.8234548375628)
+[21:00:14] [Server thread/INFO]: Xxbraianproxx was slain by EmilioZpa
+[21:00:18] [Server thread/INFO]: Xxbraianproxx lost connection: Disconnected
+[21:00:18] [Server thread/INFO]: Xxbraianproxx left the game
+[21:00:31] [User Authenticator #3/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[21:00:34] [Server thread/INFO]: Xxbraianproxx joined the game
+[21:00:34] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:47225] logged in with entity id 4572 at ([world]1402.5, 70.0, 1299.5)
+[21:02:32] [Server thread/INFO]: EmilioZpa has made the advancement [A Seedy Place]
+[21:03:14] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[21:03:14] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[21:03:17] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[21:03:17] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[21:03:21] [Server thread/INFO]: Xxbraianproxx was slain by EmilioZpa
+[21:04:33] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[21:04:33] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[21:04:35] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[21:04:35] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[21:04:36] [Server thread/INFO]: EmilioZpa fell from a high place
+[21:04:39] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[21:04:39] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[21:04:41] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[21:04:41] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[21:04:59] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[21:04:59] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[21:05:01] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[21:05:01] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[21:05:11] [Server thread/INFO]: Xxbraianproxx was shot by Skeleton
+[21:05:15] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[21:05:15] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[21:05:17] [Server thread/INFO]: EmilioZpa issued server command: /gamemode adventure
+[21:05:17] [Server thread/INFO]: [EmilioZpa: Set own game mode to Adventure Mode]
+[21:05:19] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[21:05:19] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[21:05:21] [Server thread/INFO]: EmilioZpa issued server command: /gamemode adventure
+[21:05:21] [Server thread/INFO]: [EmilioZpa: Set own game mode to Adventure Mode]
+[21:06:33] [Server thread/INFO]: EmilioZpa issued server command: /kick Xxbraianproxx
+[21:06:33] [Server thread/INFO]: Xxbraianproxx lost connection: Kicked by an operator
+[21:06:33] [Server thread/INFO]: Xxbraianproxx left the game
+[21:06:33] [Server thread/INFO]: [EmilioZpa: Kicked Xxbraianproxx: Kicked by an operator]
+[21:08:57] [Server thread/INFO]: EmilioZpa was shot by Skeleton
