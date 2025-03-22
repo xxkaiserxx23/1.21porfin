@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-03-22 18:45:21 +0000",
       "minecraft:desert": "2025-03-18 18:20:15 +0000",
+      "minecraft:dark_forest": "2025-03-22 18:46:00 +0000",
       "minecraft:forest": "2025-03-18 18:25:55 +0000",
       "minecraft:sunflower_plains": "2025-03-22 18:31:35 +0000",
       "minecraft:river": "2025-03-18 18:55:12 +0000",

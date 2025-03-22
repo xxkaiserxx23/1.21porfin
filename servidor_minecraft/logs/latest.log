@@ -66,3 +66,14 @@
 [18:41:22] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
 [18:41:22] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
 [18:45:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Xxbraianproxx> zzzzzz
+[18:47:23] [Server thread/INFO]: Villager Villager['Villager'/152, uuid='9d1dd3ff-d3fd-4b9f-9375-450ef9986507', l='ServerLevel[world]', x=1290.70, y=39.00, z=1335.30, cpos=[80, 83], tl=390535, v=true] died, message: 'Villager was slain by Zombie'
+[18:47:26] [Server thread/INFO]: Villager Villager['Villager'/151, uuid='c52d59db-83ea-4d38-9d0b-2e141e43215c', l='ServerLevel[world]', x=1288.70, y=29.00, z=1336.65, cpos=[80, 83], tl=388870, v=true] died, message: 'Villager was slain by Zombie'
+[18:49:21] [Server thread/INFO]: EmilioZpa lost connection: Disconnected
+[18:49:21] [Server thread/INFO]: EmilioZpa left the game
+[18:51:00] [User Authenticator #1/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[18:51:02] [Server thread/INFO]: EmilioZpa joined the game
+[18:51:02] [Server thread/INFO]: EmilioZpa[/127.149.105.104:47721] logged in with entity id 7754 at ([world]1052.300000011921, 63.0, 1664.699999988079)
+[18:52:08] [Server thread/INFO]: EmilioZpa issued server command: /locate biome minecraft:lush_caves
+[18:52:08] [Server thread/INFO]: Locating element minecraft:lush_caves took 0 ms
+[18:52:09] [Server thread/INFO]: Xxbraianproxx was burned to a crisp while fighting Zombie
+[18:54:24] [Async Chat Thread - #5/INFO]: [Not Secure] <EmilioZpa> t
