@@ -45,3 +45,24 @@ xx<--[HERE]
 [20:48:27] [Server thread/INFO]: EmilioZpa[/127.149.105.104:56131] logged in with entity id 3003 at ([world]1075.699999988079, -10.0, 1710.236016392035)
 [20:48:43] [Server thread/INFO]: EmilioZpa issued server command: /tp EmilioZpa Xxbraianproxx
 [20:48:43] [Server thread/INFO]: [EmilioZpa: Teleported EmilioZpa to Xxbraianproxx]
+[20:51:44] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[20:51:44] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[20:51:46] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:51:46] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:53:16] [Server thread/INFO]: EmilioZpa was slain by Iron Golem
+[20:53:54] [Server thread/INFO]: EmilioZpa was slain by Xxbraianproxx
+[20:54:21] [Server thread/INFO]: Xxbraianproxx lost connection: Disconnected
+[20:54:21] [Server thread/INFO]: Xxbraianproxx left the game
+[20:54:22] [Server thread/INFO]: EmilioZpa issued server command: /gamemode spectator
+[20:54:22] [Server thread/INFO]: [EmilioZpa: Set own game mode to Spectator Mode]
+[20:54:27] [Server thread/INFO]: EmilioZpa issued server command: /gamemode survival
+[20:54:27] [Server thread/INFO]: [EmilioZpa: Set own game mode to Survival Mode]
+[20:54:58] [User Authenticator #2/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[20:55:02] [Server thread/INFO]: Xxbraianproxx joined the game
+[20:55:02] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:41241] logged in with entity id 3978 at ([world]1398.512499988079, 63.0, 1292.300000011921)
+[20:55:27] [Server thread/INFO]: Xxbraianproxx lost connection: Disconnected
+[20:55:27] [Server thread/INFO]: Xxbraianproxx left the game
+[20:57:33] [Server thread/INFO]: EmilioZpa issued server command: //
+[20:59:36] [User Authenticator #3/INFO]: UUID of player Xxbraianproxx is f5802507-be0a-371f-825f-ef9c05f2235f
+[20:59:40] [Server thread/INFO]: Xxbraianproxx joined the game
+[20:59:40] [Server thread/INFO]: Xxbraianproxx[/127.177.249.101:54375] logged in with entity id 4459 at ([world]1398.512499988079, 63.0, 1292.8234548375628)
